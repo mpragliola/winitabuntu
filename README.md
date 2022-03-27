@@ -9,7 +9,7 @@ In order to input common characters like tilde (~) or backtick (\`) one has
 to resort to grotesque `ALT+[nnn]` combinations.
 
 Another missing feature is how caps lock reacts to accented characters; a lower caps
-accented character (like `è`) is already on the keyboard physucak layout, but you can't produce
+accented character (like `è`) is already on the keyboard physical layout, but you can't produce
 an upper caps `È` with `shift` key - Ubuntu though allows to obtain `È` through the
 use of caps lock. This is absent in Windows
 
